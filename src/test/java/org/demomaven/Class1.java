@@ -21,8 +21,15 @@ public class Class1 {
 	@Test
 	public void tc2() {
 		System.out.println("TC-2");
+		System.out.println("TC-22");
 
 	}
 	
+	@Test
+	public void tc3() {
+		System.out.println("TC-three");
+		System.out.println("TC-three-3");
+
+	}
 
 }

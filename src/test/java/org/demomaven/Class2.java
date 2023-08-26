@@ -15,5 +15,10 @@ public class Class2 {
 		System.out.println("TC-4");
 
 	}
+	@Test
+	public void tc5() {
+		System.out.println("TC-5");
+
+	}
 
 }
