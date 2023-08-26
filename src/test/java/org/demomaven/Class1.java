@@ -9,6 +9,12 @@ public class Class1 {
 		System.out.println("TC-1");
 		System.out.println("TC-11");
 		System.out.println("TC-111");
+		//1
+		//2
+		//3
+		System.out.println("TC-111");
+		System.out.println("TC-11");
+		System.out.println("TC-1");
 		
 
 	}
